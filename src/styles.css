@@ -1,0 +1,12 @@
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.median {
+  position: absolute;
+  left: 0;
+  top: 0;
+}
